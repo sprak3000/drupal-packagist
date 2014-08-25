@@ -185,6 +185,21 @@
                     "composer/installers": "*"
                 },
                 "type": "drupal-module"
+            },
+            "7.1.0-rc2": {
+                "name": "sprak3000-drupal/metatag",
+                "version": "7.1.0-rc2",
+                "version_normalized": "7.1.0.0-rc2",
+                "dist": {
+                    "type": "tar",
+                    "url": "http://ftp.drupal.org/files/projects/metatag-7.x-1.0-rc2.tar.gz",
+                    "reference": "e7e2da3545b86ff2bf33f982dbdd79a0",
+                    "shasum": null
+                },
+                "require": {
+                    "composer/installers": "*"
+                },
+                "type": "drupal-module"
             }
         },
         "sprak3000-drupal/media": {
@@ -457,6 +472,21 @@
                     "composer/installers": "*"
                 },
                 "type": "drupal-module"
+            },
+            "7.2.8": {
+                "name": "sprak3000-drupal/date",
+                "version": "7.2.8",
+                "version_normalized": "7.2.8.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "http://ftp.drupal.org/files/projects/date-7.x-2.8.tar.gz",
+                    "reference": "e0d07255a60e3a7716db5902767e08d1",
+                    "shasum": null
+                },
+                "require": {
+                    "composer/installers": "*"
+                },
+                "type": "drupal-module"
             }
         },
         "sprak3000-drupal/token": {
@@ -485,6 +515,21 @@
                     "type": "tar",
                     "url": "http://ftp.drupal.org/files/projects/views-7.x-3.7.tar.gz",
                     "reference": "3f36f0d13f3b724d719f6729cbc110ba",
+                    "shasum": null
+                },
+                "require": {
+                    "composer/installers": "*"
+                },
+                "type": "drupal-module"
+            },
+            "7.3.8": {
+                "name": "sprak3000-drupal/views",
+                "version": "7.3.8",
+                "version_normalized": "7.3.8.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "http://ftp.drupal.org/files/projects/views-7.x-3.8.tar.gz",
+                    "reference": "0fbe71c455f5d34c7193797563b63b3f",
                     "shasum": null
                 },
                 "require": {
@@ -534,6 +579,21 @@
                     "type": "tar",
                     "url": "http://ftp.drupal.org/files/projects/markdowneditor-7.x-1.2.tar.gz",
                     "reference": "1a02178d52948c7b47d8615058acc0ef",
+                    "shasum": null
+                },
+                "require": {
+                    "composer/installers": "*"
+                },
+                "type": "drupal-module"
+            },
+            "7.1.4": {
+                "name": "sprak3000-drupal/markdowneditor",
+                "version": "7.1.4",
+                "version_normalized": "7.1.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "http://ftp.drupal.org/files/projects/markdowneditor-7.x-1.4.tar.gz",
+                    "reference": "6013615cac31907044e0dd2df17a1881",
                     "shasum": null
                 },
                 "require": {
