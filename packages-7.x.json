@@ -42,7 +42,7 @@
                 "dist": {
                     "type": "tar",
                     "url": "http://ftp.drupal.org/files/projects/i18nviews-7.x-3.x-dev.tar.gz",
-                    "reference": "fc2b9e8fec5461b5b254479a7a77ac90",
+                    "reference": "283e1fc8fae82703f60b82d50c4c3b2a",
                     "shasum": null
                 },
                 "require": {
@@ -83,6 +83,21 @@
                     "composer/installers": "*"
                 },
                 "type": "drupal-module"
+            },
+            "7.1.0-alpha6": {
+                "name": "sprak3000-drupal/uuid",
+                "version": "7.1.0-alpha6",
+                "version_normalized": "7.1.0.0-alpha6",
+                "dist": {
+                    "type": "tar",
+                    "url": "http://ftp.drupal.org/files/projects/uuid-7.x-1.0-alpha6.tar.gz",
+                    "reference": "629083e006338bede48093d2ed38a34f",
+                    "shasum": null
+                },
+                "require": {
+                    "composer/installers": "*"
+                },
+                "type": "drupal-module"
             }
         },
         "sprak3000-drupal/strongarm": {
@@ -111,6 +126,21 @@
                     "type": "tar",
                     "url": "http://ftp.drupal.org/files/projects/scheduler-7.x-1.2.tar.gz",
                     "reference": "b700e215384e5f12087fc0178395749a",
+                    "shasum": null
+                },
+                "require": {
+                    "composer/installers": "*"
+                },
+                "type": "drupal-module"
+            },
+            "7.1.3": {
+                "name": "sprak3000-drupal/scheduler",
+                "version": "7.1.3",
+                "version_normalized": "7.1.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "http://ftp.drupal.org/files/projects/scheduler-7.x-1.3.tar.gz",
+                    "reference": "a3ccdf5cab91c26d9dd08c09693322b7",
                     "shasum": null
                 },
                 "require": {
@@ -194,6 +224,21 @@
                     "type": "tar",
                     "url": "http://ftp.drupal.org/files/projects/metatag-7.x-1.0-rc2.tar.gz",
                     "reference": "e7e2da3545b86ff2bf33f982dbdd79a0",
+                    "shasum": null
+                },
+                "require": {
+                    "composer/installers": "*"
+                },
+                "type": "drupal-module"
+            },
+            "7.1.4": {
+                "name": "sprak3000-drupal/metatag",
+                "version": "7.1.4",
+                "version_normalized": "7.1.4",
+                "dist": {
+                    "type": "tar",
+                    "url": "http://ftp.drupal.org/files/projects/metatag-7.x-1.4.tar.gz",
+                    "reference": "d071820ada98026416e4322347ea4fe3",
                     "shasum": null
                 },
                 "require": {
@@ -285,6 +330,21 @@
                     "composer/installers": "*"
                 },
                 "type": "drupal-module"
+            },
+            "7.1.3": {
+                "name": "sprak3000-drupal/link",
+                "version": "7.1.3",
+                "version_normalized": "7.1.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "http://ftp.drupal.org/files/projects/link-7.x-1.3.tar.gz",
+                    "reference": "cc9ccec6ca028f73cf60f8cab09e5a4d",
+                    "shasum": null
+                },
+                "require": {
+                    "composer/installers": "*"
+                },
+                "type": "drupal-module"
             }
         },
         "sprak3000-drupal/find_content": {
@@ -296,6 +356,21 @@
                     "type": "tar",
                     "url": "http://ftp.drupal.org/files/projects/find_content-7.x-1.2.tar.gz",
                     "reference": "460dfcef857c0bae2573bc3570e60ea7",
+                    "shasum": null
+                },
+                "require": {
+                    "composer/installers": "*"
+                },
+                "type": "drupal-module"
+            },
+            "7.1.4": {
+                "name": "sprak3000-drupal/find_content",
+                "version": "7.1.4",
+                "version_normalized": "7.1.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "http://ftp.drupal.org/files/projects/find_content-7.x-1.4.tar.gz",
+                    "reference": "e78a24ed343f849ce4ba66dfb0419c49",
                     "shasum": null
                 },
                 "require": {
@@ -568,6 +643,21 @@
                     "composer/installers": "*"
                 },
                 "type": "drupal-module"
+            },
+            "7.1.8": {
+                "name": "sprak3000-drupal/bueditor",
+                "version": "7.1.8",
+                "version_normalized": "7.1.8.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "http://ftp.drupal.org/files/projects/bueditor-7.x-1.8.tar.gz",
+                    "reference": "c3cd339f8200422769045c270609277e",
+                    "shasum": null
+                },
+                "require": {
+                    "composer/installers": "*"
+                },
+                "type": "drupal-module"
             }
         },
         "sprak3000-drupal/markdowneditor": {
@@ -645,6 +735,21 @@
                     "type": "tar",
                     "url": "http://ftp.drupal.org/files/projects/rubik-7.x-4.0.tar.gz",
                     "reference": "6e87e696d5bda32f1ba28c4c966d4718",
+                    "shasum": null
+                },
+                "require": {
+                    "composer/installers": "*"
+                },
+                "type": "drupal-theme"
+            },
+            "7.4.1": {
+                "name": "sprak3000-drupal/rubiktheme",
+                "version": "7.4.1",
+                "version_normalized": "7.4.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "http://ftp.drupal.org/files/projects/rubik-7.x-4.1.tar.gz",
+                    "reference": "44fe6afeb873b3b37e48a43a5e052bd6",
                     "shasum": null
                 },
                 "require": {
