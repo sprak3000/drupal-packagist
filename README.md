@@ -1,9 +1,9 @@
-#drupal-packagist
+# drupal-packagist
 
-Provides Packagist based repository to allow Drupal modules and themes to be included in your site via composer. Inspired
+Provides a Packagist based repository to allow Drupal 7 modules and themes to be included in your site via composer. Inspired
 by the [Haehnchen/drupal-packagist](https://github.com/Haehnchen/drupal-packagist) project.
 
-##Usage
+## Usage
 
 Add this project as a repository in your `composer.json`:
 ```
@@ -28,6 +28,8 @@ And then add your requirements in the form of `"sprak3000-drupal/<module | theme
 
 For an example of it in use, see the [composer.json file for the drupal-composed project](https://github.com/sprak3000/drupal-composed/blob/master/composer.json).
 
-##Contributing
+## Contributing
 
-Are we missing a module or theme in the list? A particular version? Pull requests are encouraged to build this repo out!
+[Drupal 8](https://www.drupal.org/8) has been released. This repository is being archived and left as reference material. It will no longer be updated, and no contributions are being accepted at this time. 
+
+~~Are we missing a module or theme in the list? A particular version? Pull requests are encouraged to build this repo out!~~
